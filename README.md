@@ -6,6 +6,7 @@ A Telegram bot that processes voice messages using ArcadeAI.
 
 - Node.js
 - pnpm (or npm)
+- ffmpeg (install on Mac: `brew install ffmpeg`)
 - Telegram Bot Token
 - Arcade API Key
 - OpenAI API Key
